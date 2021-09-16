@@ -1,4 +1,4 @@
-# tutorials-python
+# python-tutorials
 This is a repository of Python tutorials.
 
 # **Follow me on TikTok and Youtube for the complete tutorials**
