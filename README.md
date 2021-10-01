@@ -4,6 +4,7 @@ This is a repository of Python tutorials.
 # **Current projects**
 
 - A "GPS" in Python with Maps API.
+- Zoom automation with a school schedule.
 
 # **Follow me on TikTok and Youtube for the complete tutorials**
 
