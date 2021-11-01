@@ -7,6 +7,7 @@ This is a repository of Python tutorials.
 - Zoom automation with a school schedule.
 - Google Meet automation with a school schedule.
 - Halloween joke with Sockets and Python.
+- Teams automation with a school schedule.
 
 # **Follow me on TikTok and Youtube for the complete tutorials**
 
